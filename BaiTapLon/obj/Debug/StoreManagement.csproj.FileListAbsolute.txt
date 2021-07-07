@@ -1,0 +1,3 @@
+D:\Do_an\BaiTapLonNet\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+D:\Do_an\BaiTapLonNet\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.exe
+D:\Do_an\BaiTapLonNet\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.pdb
